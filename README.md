@@ -1,69 +1,93 @@
-# 👋 Welcome to My Profile
+# Hey, I'm Dusty 👋
 
-Hi there! I’m **Dusty Mumphrey**, a passionate Full-Stack Engineer with 8+ years of experience crafting scalable, high-performance applications. I thrive at the intersection of backend architecture, cloud automation, and front-end user experiences—always aiming to deliver real-world impact.
+Senior Engineer with 8+ years building production systems that actually ship. I've designed data pipelines for federal agencies, managed HIPAA-compliant healthcare platforms serving millions, and built 4 live products as a solo engineer—one with 1000+ active users.
+
+Currently open to contract work and senior engineering opportunities.
+
+📧 dusty_mumphrey@outlook.com • 🌐 [builtbydusty.com](https://builtbydusty.com) • 💼 [LinkedIn](https://www.linkedin.com/in/dusty-mumphrey)
 
 ---
 
-## 🚀 Featured Skills & Technologies
+## What I Work With
 
 <p align="center">
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
   <img alt="FastAPI" src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="Terraform" src="https://img.shields.io/badge/-Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white" />
+  <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+  <img alt="Redis" src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+  <img alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="Azure" src="https://img.shields.io/badge/-Azure-0089D6?style=flat-square&logo=Microsoft Azure&logoColor=white" />
-  <img alt="SonarQube" src="https://img.shields.io/badge/-SonarQube-3EAF2D?style=flat-square&logo=sonarqube&logoColor=white" />
+  <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+  <img alt="Terraform" src="https://img.shields.io/badge/-Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white" />
 </p>
 
 ---
 
-## 💼 Core Expertise
+## What I've Built
 
-- **Microservices & Cloud Automation**: Designed and maintained 28 microservices in a mono-repo using Docker, Kubernetes, and custom Python-based Terraform orchestration, provisioning 32 Azure resources seamlessly.
-- **AI/ML Pipelines**: Built convolutional neural networks for image classification and Monte Carlo genetic simulations for my AI-driven gecko breeding platform, achieving >90% accuracy in morph identification.
-- **Full-Stack Development**: Delivered responsive dashboards and user interfaces with React, Redux, and CSS-in-JS; integrated with FastAPI/Flask backends and PostgreSQL, Redis, CosmosDB.
-- **DevOps & Testing**: Enforced TDD with pytest and Jest, achieving 85%+ coverage; integrated SonarQube for quality gates, and automated CI/CD pipelines with Azure DevOps and GitHub Actions.
+### Scrollbook — AI-Powered D&D Platform
+**1000+ active users** • Shipped from idea to production in 2 months as sole engineer
 
----
+- 6 FastAPI microservices, Next.js frontend, PostgreSQL, Discord bot integration
+- Claude 3.5 Sonnet with prompt caching (90% cost reduction)
+- 33 Discord slash commands, RBAC subscriptions, campaign management
+- AWS CDK infrastructure with zero-downtime deployments
 
-## 📂 Notable Projects
+### Geckistry — AI Reptile Breeding Platform
+**Production ML** • Generating monthly revenue
 
-### **Geckistry** (Private 🦎)
-A bespoke AI-powered platform for my crested gecko breeding business, featuring:
-- **AI Morph Identification**: Photo-based CNN predictions
-- **Genetic Outcome Simulator**: Allele-driven Monte Carlo
-- **Inventory & Sales Portal**: React front-ends & Python microservices
-- **Infrastructure as Code**: Custom Terraform scripts for rapid deployment
+- Computer vision model for morph classification (88% accuracy)
+- TensorFlow pipeline with continuous improvement from breeding outcomes
+- Genetic prediction engine, inventory management, e-commerce integration
+- FastAPI backend, React frontend, AWS infrastructure
 
-### **DealerOn “For You” Personalization**
-- Rolled out as a paid service to 87% of dealers in 10 months
-- Increased real-time recommendations with 50+ micro-app tests and SonarQube gating
+### AI Job Application Assistant
+**Chrome Extension** • 80% reduction in application time
 
-### **Vault Health Reliability**
-- Engineered HIPAA-compliant, multi-region monitoring reducing MTTR by 35%  
-- Zero-downtime deployments for 50+ updates across Kubernetes clusters
+- Claude via AWS Bedrock for resume/cover letter generation
+- Site-specific DOM extractors for LinkedIn, Indeed, Glassdoor
+- OpenSearch vector search, FastAPI on ECS Fargate
+- CloudFormation IaC, robust error handling
 
-### **Discord D&D Bot**
-- AI-driven session management for remote tabletop play (8 active weekly users)
-- Integrated with Foundry VTT for real-time scene and combat tracking
+### Federal Data Pipelines — GovStar
+**Multi-agency analytics platforms** (CBP, ICE, FEMA)
 
----
-
-## 🎯 Goals & Interests
-
-- **Architect Roles**: Eager to design scalable event-driven platforms for healthtech or niche marketplaces.
-- **Animal & Healthcare Domains**: Passionate about building tools that empower underrepresented communities and small businesses.
-- **Continuous Learning**: Exploring advanced security practices (OWASP, ZAP) and serverless patterns with AWS Lambda.
+- Event-driven architectures processing multi-million-row datasets
+- Automated 309-column reporting workflows, saving hours weekly
+- Python, AWS SageMaker, Neptune graph database, Snowflake
 
 ---
 
-## 📫 Connect with Me
+## Professional Highlights
+
+**GovStar** (2025–Present) — Full Stack Engineer / Data Scientist
+- ML pipelines for federal analytics platforms
+- Legacy-to-cloud modernization (Snowflake, SageMaker, Tableau)
+
+**DealerOn** (2024–2025) — Senior Engineer
+- Led team of 7, improved test coverage from 50% to 85% across 10 apps
+- Built personalization engine driving 20% increase in dealer acquisition
+
+**Vault Health** (2021–2022) — Reliability Engineer
+- HIPAA-compliant systems processing millions of clinical tests weekly
+- <1% incident rate across multi-region Kubernetes clusters
+
+---
+
+## Currently
+
+- 🔍 Open to senior engineering roles and contract work
+- 🛠️ Available for 2-4 week sprints ($100-125/hr)
+- 💬 Interested in backend, data pipelines, ML/LLM integrations, or full-stack
+
+---
 
 <p align="center">
-  <a href="https://github.com/dusttoo" target="_blank"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://www.linkedin.com/in/dusty-mumphrey" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:dusty_mumphrey@outlook.com"><img src="https://img.shields.io/badge/Email-dusty__mumphrey%40outlook.com-blue?style=for-the-badge" alt="Email"/></a>
+  <a href="https://builtbydusty.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-builtbydusty.com-green?style=for-the-badge" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/dusty-mumphrey" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
-
-> Thanks for stopping by! Let's build something amazing together.
