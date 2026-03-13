@@ -77,6 +77,12 @@ I run **[Built By Dusty](https://builtbydusty.com)**, a software studio building
 
 ---
 
+## Writing
+
+- [I built and launched a mobile app in 3 months as a solo engineer. Here's exactly what happened.](https://dev.to/dusttoo/i-built-and-launched-a-mobile-app-in-3-months-as-a-solo-engineer-heres-exactly-what-happened-479e) — Dev.to, March 2026
+  
+---
+
 ## Professional Background
 
 **GovStar** (2025–Present) — Full Stack Engineer / Data Scientist
