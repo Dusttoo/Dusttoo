@@ -80,7 +80,21 @@ I run **[Built By Dusty](https://builtbydusty.com)**, a software studio building
 ## Writing
 
 - [I built and launched a mobile app in 3 months as a solo engineer. Here's exactly what happened.](https://dev.to/dusttoo/i-built-and-launched-a-mobile-app-in-3-months-as-a-solo-engineer-heres-exactly-what-happened-479e) — Dev.to, March 2026
-  
+
+## Open Source
+
+### react-native-expo-supabase-starter
+
+Production-ready React Native starter with Supabase, RevenueCat, and TanStack Query. The part most starters skip: a tested, injectable Supabase service layer with a chainable mock helper for Jest.
+
+- [github.com/Dusttoo/react-native-expo-supabase-starter](https://github.com/Dusttoo/react-native-expo-supabase-starter)
+
+### reptile-genetics-engine
+
+A rule-based genetics engine for reptile morphs. Models dominance patterns, allele interactions, lethal combinations, and polygenic traits. Companion code for the Geckistry phenotype generator.
+
+- [github.com/Dusttoo/reptile-genetics-engine](https://github.com/Dusttoo/reptile-genetics-engine)
+
 ---
 
 ## Professional Background
