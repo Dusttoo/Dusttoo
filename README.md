@@ -126,5 +126,5 @@ A rule-based genetics engine for reptile morphs. Models dominance patterns, alle
 ---
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-builtbydusty.com-green?style=for-the-badge)](https://builtbydusty.com)
-[![Email](https://img.shields.io/badge/Email-dusty__mumphrey%40outlook.com-blue?style=for-the-badge)](mailto:dusty_mumphrey@outlook.com)
+[![Email](https://img.shields.io/badge/Email-dusty__mumphrey%40outlook.com-blue?style=for-the-badge)](mailto:dmumphrey@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dusty-mumphrey)
